@@ -1,1 +1,1 @@
-Pomodoro technique timer app developed with React Native
+React Native Pomodoro timer app developed for personal use while I'm studying / working
